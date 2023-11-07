@@ -1,0 +1,8 @@
+langchain
+openai==0.28.1
+streamlit
+python-dotenv
+bs4
+chromadb
+tiktoken
+streamlit-aggrid
